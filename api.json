@@ -1,0 +1,65 @@
+[
+    {
+        "nombre":"Pececillos de cobre",
+        "orden":"Archaeognatha",
+        "img": "images/archaeognatha.png",
+        "desc": "Son un primitivo orden de insectos carentes de alas (Apterygota*), ectognatos (con piezas bucales externas), de forma alargada, con tres cercos (colas) en la extremidad del abdomen y el cuerpo cubierto por escamas con reflejos metálicos, de donde deriva su nombre común.",
+        "link": "https://eol.org/pages/1099"
+    },
+    {
+        "nombre":"Escarabajos",
+        "orden":"Coleoptera",
+        "img": "images/coleoptera.png",
+        "desc": "Son un orden de insectos con unas 375 000 especies descritas; tiene tantas especies como las plantas vasculares o los hongos y 66 veces más especies que los mamíferos.",
+        "link": "https://eol.org/pages/345"
+    },
+    {
+        "nombre":"Chinches",
+        "orden":"Hemiptera",
+        "img": "images/hemiptera.png",
+        "desc": "Su nombre alude a que en muchos de ellos las alas anteriores (o hemiélitros) están divididas en una sección basal dura y una sección distal membranosa.",
+        "link": "https://eol.org/pages/539"
+    },
+    {
+        "nombre":"Termitas",
+        "orden":"Isoptera",
+        "img": "images/isoptera.png",
+        "desc": "Su nombre científico se refiere al hecho que las termitas adultas presentan dos pares de alas de igual tamaño. Son un grupo de insectos sociales que construyen nidos (termiteros).",
+        "link": "https://eol.org/pages/413"
+    },
+    {
+        "nombre":"Mariposas",
+        "orden":"Lepidoptera",
+        "img": "images/lepidoptera.png",
+        "desc": "Son un orden de insectos holometábolos, casi siempre voladores, conocidos comúnmente como mariposas; las más conocidas son las mariposas diurnas, pero la mayoría de las especies son nocturnas (polillas, esfinges, pavones, etc.) y pasan muy inadvertidas.",
+        "link": "https://eol.org/pages/747"
+    },
+    {
+        "nombre":"Libelulas",
+        "orden":"Odonata",
+        "img": "images/odonata.png",
+        "desc": "Los adultos muestran un aspecto muy característico, con una cabeza más ancha que el resto del cuerpo, un abdomen largo y delgado y cuatro alas membranosas transparentes.",
+        "link": "https://eol.org/pages/952"
+    },
+    {
+        "nombre":"Langostas",
+        "orden":"Orthoptera",
+        "img": "images/orthoptera.png",
+        "desc": "son insectos paurometábolos, con aparato bucal masticador. El orden de los ortópteros tiene unas diecinueve mil especies, la mayoría tropicales, pero distribuidas por todo el planeta.",
+        "link": "https://eol.org/pages/683"
+    },
+    {
+        "nombre":"Piojos",
+        "orden":"Phthiraptera",
+        "img": "images/pthiraptera.png",
+        "desc": "Son un orden de insectos ápteros (sin alas en el adulto, en este caso perdidas secundariamente) hemimetábolos (cuyo desarrollo consta de huevo, varios estadios de ninfa y adulto), ectoparásitos de aves y mamíferos, que incluye unas 3250 especies.",
+        "link": "https://eol.org/pages/1002"
+    },
+    {
+        "nombre":"Pececillos de plata",
+        "orden":"Zygentoma",
+        "img": "images/thysanura.png",
+        "desc": "Tienen el cuerpo alargado, de entre 2 y 20 mm, son aplanados y muchos tienen el tórax más ancho que el abdomen. Según la especie, son de color gris, pardo o amarillento.",
+        "link": "https://eol.org/pages/1097"
+    }
+]

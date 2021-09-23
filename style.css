@@ -1,0 +1,9 @@
+.articulo {
+  width: 100vh;
+  height: 100vh;
+}
+
+body {
+  scroll-behavior: smooth;
+  background-color: #ecfdf5;
+}
